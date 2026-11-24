@@ -1,4 +1,6 @@
 import /init.microtrust.rc
+import /vendor/etc/init/android.hardware.keymaster@4.0-service.beanpod.rc
+import /vendor/etc/init/vendor.microtrust.hardware.soter@1.0-service.rc
 
 on init
     write /sys/class/backlight/panel0-backlight/brightness 200

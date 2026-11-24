@@ -72,7 +72,7 @@ TW_DEFAULT_LANGUAGE := ru
 TW_EXTRA_LANGUAGES := true
 
 # Version
-TW_DEVICE_VERSION := frost_V13.0.13 - lopestom
+TW_DEVICE_VERSION := frost-twrp_3.7.0
 
 # Brightness
 TW_BRIGHTNESS_PATH := /sys/devices/platform/0.soc/30620000.dsi/30620000.dsi.0/leds/lcd-backlight/brightness
